@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://codewithlex.site" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-8440dd.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://octoreach.site/lex" target="_blank"><img alt="Octoreach Card" src="https://img.shields.io/badge/Octoreach-Card-00D26A.svg?&style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://octoreach.online/lex" target="_blank"><img alt="Octoreach Card" src="https://img.shields.io/badge/Octoreach-Card-00D26A.svg?&style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lex-matondo-180257343/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/focalstack.lex/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://github.com/focalstack-lex" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-focalstack--lex-111827.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
